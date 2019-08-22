@@ -1,8 +1,8 @@
 /// Auto Size Config.
 class AutoSizeConfig {
   ///  width 默认设计稿  尺寸dp or pt。
-  static double _designWidth = 360;
-  static double _designHeight = 640;
+  static double _designWidth = 375;
+  static double _designHeight = 667;
 
   static double get designWidth => _designWidth;
 
